@@ -1,0 +1,7 @@
+The make file makes it run able by doing chmod.
+To run the program run Sudoku -i image format.
+For more info run Sudoku -h
+To not aquarium machine run using 'python3 main.py ...'
+
+* The test mode and options require a csv file from https://qqwing.com/generate.html,
+not included because of it's size.
